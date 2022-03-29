@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/SketchingU_Front/static/js/main.a314d886.chunk.js",
+    "main.js.map": "/SketchingU_Front/static/js/main.a314d886.chunk.js.map",
+    "runtime-main.js": "/SketchingU_Front/static/js/runtime-main.1c5973f6.js",
+    "runtime-main.js.map": "/SketchingU_Front/static/js/runtime-main.1c5973f6.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/SketchingU_Front/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b1ed7d04.chunk.js": "/SketchingU_Front/static/js/2.b1ed7d04.chunk.js",
+    "static/js/2.b1ed7d04.chunk.js.map": "/SketchingU_Front/static/js/2.b1ed7d04.chunk.js.map",
+    "index.html": "/SketchingU_Front/index.html",
+    "precache-manifest.5dfaf5833034741a8a86baf837878ab3.js": "/SketchingU_Front/precache-manifest.5dfaf5833034741a8a86baf837878ab3.js",
+    "service-worker.js": "/SketchingU_Front/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/SketchingU_Front/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.b1ed7d04.chunk.js.LICENSE.txt": "/SketchingU_Front/static/js/2.b1ed7d04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c5973f6.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b1ed7d04.chunk.js",
+    "static/js/main.a314d886.chunk.js"
+  ]
+}
