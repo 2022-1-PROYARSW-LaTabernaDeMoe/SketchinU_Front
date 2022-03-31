@@ -1,8 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './diagram.css';
 import reportWebVitals from './reportWebVitals';
+import ReactFlowDND from './ReactflowDnd';
+
+function App() {
+
+  return (
+    <div>
+      <ReactFlowDND/>
+    </div>    
+  );
+}
 
 ReactDOM.render(
   <React.StrictMode>
